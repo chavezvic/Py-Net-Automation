@@ -9,3 +9,5 @@ When you run `import this` in Python, it displays the "Zen of Python" — a coll
 - **Explicit is better than implicit.**
 - And so on...
 
+Check out `zen_of_python.py` to see the Zen of Python displayed. Simply run the file in a Python environment.
+You'll be presented with the foundational principles.
